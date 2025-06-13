@@ -1,0 +1,20 @@
+{
+  "name": "azure-echo-app",
+  "version": "1.0.0",
+  "description": "This project uses the **Azure Functions Python v2 programming model**. All functions are defined in a single `function_app.py` file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigotacon/azure-func.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigotacon/azure-func/issues"
+  },
+  "homepage": "https://github.com/Bigotacon/azure-func#readme"
+}

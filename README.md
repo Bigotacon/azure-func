@@ -14,7 +14,7 @@ This project uses the **Azure Functions Python v2 programming model**. All funct
 
 1. **Clone the repository**  
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Bigotacon/azure-func.git
    cd azure-echo-app
    ```
 
@@ -67,3 +67,8 @@ azure-echo-app/
 - This project uses the **v2 programming model** for Azure Functions in Python. There are no per-function folders or `function.json` files.
 - All functions are defined and registered in `function_app.py` using decorators.
 - For more information, see the [Azure Functions Python v2 docs](https://learn.microsoft.com/azure/azure-functions/functions-reference-python?tabs=asgi%2Capplication-level&pivots=python-mode-v2).
+
+
+# NPM
+1. npm init -y
+2. npm install -g azurite
